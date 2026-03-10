@@ -72,46 +72,43 @@ quote: "Infrastructure as Code is not just a practice, it's a mindset."
 
 </div>
 
-# 🗺️ My DevOps Journey
 
-<div align="center">
+# 💻 whoami
 
-```
-                        🎓 CS Graduate 2025
-                               |
-                               ▼
-              ┌────────────────────────────────┐
-              │        The Road Begins...       │
-              └────────────────────────────────┘
-                               |
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
-     🐧 Linux              🐳 Docker            ☁️ Cloud
-     [Mastered]           [Learning]           [Exploring]
-          |                    |                    |
-          └────────────────────┼────────────────────┘
-                               |
-                               ▼
-              ┌────────────────────────────────┐
-              │   🚀 Future: Senior DevOps      │
-              │      Engineer / SRE / Cloud     │
-              └────────────────────────────────┘
-```
+bash
+┌──(zaid㉿universe)-[~]
+└─$ cat about_me.txt
 
-</div>
+> CS Graduate with a passion for building things that scale.
+> I fell in love with DevOps the moment I understood that
+> great software means nothing without great infrastructure.
 
----
+> I'm not just learning tools — I'm learning to think like
+> an engineer who automates, monitors, and ships with confidence.
 
-## 📅 2025 — The Year I Go All In
+> Still early in the journey. But every container I run,
+> every pipeline I build, every server I configure...
+> brings me one step closer. 🚀
 
-<div align="center">
+┌──(zaid㉿universe)-[~]
+└─$ cat current_mission.txt
 
-| Quarter | Goal | Status |
-|---------|------|--------|
-| Q1 2025 | Master Docker & Linux deep dive | 🔥 In Progress |
-| Q2 2025 | Kubernetes + Ansible automation | 🎯 Planned |
-| Q3 2025 | AWS Solutions Architect cert | 🎯 Planned |
-| Q4 2025 | Land first DevOps role | 🚀 The Goal |
+> "Turn coffee and curiosity into production-ready infrastructure."
+
+┌──(zaid㉿universe)-[~]
+└─$ ls skills/
+
+docker/     kubernetes/    ansible/     linux/
+aws/        ci-cd/         bash/        cloud/
+
+┌──(zaid㉿universe)-[~]
+└─$ echo $GOAL
+
+>> Land my first DevOps role & never stop building. 🔥
+
+┌──(zaid㉿universe)-[~]
+└─$
+
 
 </div>
 
