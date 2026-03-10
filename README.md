@@ -87,6 +87,7 @@ quote: "Infrastructure as Code is not just a practice, it's a mindset."
 
 ---
 
+!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -101,9 +102,11 @@ quote: "Infrastructure as Code is not just a practice, it's a mindset."
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://ghchart.rshah.org/00d4ff/YOUR_USERNAME)
 
 </div>
+-->
+
 
 ---
 
