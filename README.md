@@ -87,7 +87,7 @@ quote: "Infrastructure as Code is not just a practice, it's a mindset."
 
 ---
 
-!--
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
