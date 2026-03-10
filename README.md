@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20[ZIAD%YEHIA]%20👋&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=CS%20Graduate%20%7C%20DevOps%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20[Zaid%20Yehia]%20👋&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=CS%20Graduate%20%7C%20DevOps%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18&descColor=8b949e"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -72,10 +72,11 @@ quote: "Infrastructure as Code is not just a practice, it's a mindset."
 
 </div>
 
+---
 
-# 💻 whoami
+## 💻 whoami
 
-bash
+```bash
 ┌──(zaid㉿universe)-[~]
 └─$ cat about_me.txt
 
@@ -107,46 +108,8 @@ aws/        ci-cd/         bash/        cloud/
 >> Land my first DevOps role & never stop building. 🔥
 
 ┌──(zaid㉿universe)-[~]
-└─$
-
-
-</div>
-
----
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e" />
-
-</div>
-
----
-
-<!--
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://ghchart.rshah.org/00d4ff/YOUR_USERNAME)
-
-</div>
--->
-
+└─$ _
+```
 
 ---
 
@@ -181,7 +144,7 @@ Monitoring (Prometheus/Grafana) ███████░░░  35% 🎯
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-yahai-6b6457307)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
@@ -196,17 +159,3 @@ Monitoring (Prometheus/Grafana) ███████░░░  35% 🎯
 *"Automate the boring stuff, focus on what matters"* ⚡
 
 </div>
-<!--
-**ziadyeehia/ziadyeehia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
