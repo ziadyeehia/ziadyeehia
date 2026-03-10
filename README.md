@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=CS%20Graduate%20%7C%20DevOps%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20[Ziad%20Yehia]%20👋&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=CS%20Graduate%20%7C%20DevOps%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18&descColor=8b949e"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ziadyeehia&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=ziadyeehia&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-yahai-6b6457307)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziadyeehia)
 
