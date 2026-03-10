@@ -72,8 +72,51 @@ quote: "Infrastructure as Code is not just a practice, it's a mindset."
 
 </div>
 
+# 🗺️ My DevOps Journey
+
+<div align="center">
+
+```
+                        🎓 CS Graduate 2025
+                               |
+                               ▼
+              ┌────────────────────────────────┐
+              │        The Road Begins...       │
+              └────────────────────────────────┘
+                               |
+          ┌────────────────────┼────────────────────┐
+          ▼                    ▼                    ▼
+     🐧 Linux              🐳 Docker            ☁️ Cloud
+     [Mastered]           [Learning]           [Exploring]
+          |                    |                    |
+          └────────────────────┼────────────────────┘
+                               |
+                               ▼
+              ┌────────────────────────────────┐
+              │   🚀 Future: Senior DevOps      │
+              │      Engineer / SRE / Cloud     │
+              └────────────────────────────────┘
+```
+
+</div>
+
 ---
 
+## 📅 2025 — The Year I Go All In
+
+<div align="center">
+
+| Quarter | Goal | Status |
+|---------|------|--------|
+| Q1 2025 | Master Docker & Linux deep dive | 🔥 In Progress |
+| Q2 2025 | Kubernetes + Ansible automation | 🎯 Planned |
+| Q3 2025 | AWS Solutions Architect cert | 🎯 Planned |
+| Q4 2025 | Land first DevOps role | 🚀 The Goal |
+
+</div>
+
+---
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
